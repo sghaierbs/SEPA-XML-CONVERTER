@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XMLConerter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XMLConerter_jar</output-path>
+    <root id="archive" name="XMLConerter.jar">
+      <element id="module-output" name="XMLConerter" />
+    </root>
+  </artifact>
+</component>
